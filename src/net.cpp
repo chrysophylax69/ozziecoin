@@ -1192,9 +1192,14 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"ozziecoin.com", "seed1.ozziecoin.com"},
-	{"ozziecoin.com", "seed2.ozziecoin.com"},
-    {NULL, NULL}
+	{"ozc-seed1.granitecoin.com", "ozc-seed1.granitecoin,com"},
+	{"ozc-seed2.granitecoin.com", "ozc-seed2.granitecoin,com"},
+	{"ozc-seed3.granitecoin.com", "ozc-seed3.granitecoin,com"},
+
+// below are the old seed ip addresses - preserved for archival purposes ...
+//    {"ozziecoin.com", "seed1.ozziecoin.com"},
+//	{"ozziecoin.com", "seed2.ozziecoin.com"},
+	{NULL, NULL}
 };
 
 static const char *strTestNetDNSSeed[][2] = {
