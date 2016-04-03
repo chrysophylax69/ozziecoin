@@ -1195,6 +1195,10 @@ static const char *strMainNetDNSSeed[][2] = {
 	{"ozc-seed1.granitecoin.com", "ozc-seed1.granitecoin,com"},
 	{"ozc-seed2.granitecoin.com", "ozc-seed2.granitecoin,com"},
 	{"ozc-seed3.granitecoin.com", "ozc-seed3.granitecoin,com"},
+	{"ozc-seed4.granitecoin.com", "ozc-seed4.granitecoin,com"},
+	{"ozc-seed5.granitecoin.com", "ozc-seed5.granitecoin,com"},
+	{"ozc-seed6.granitecoin.com", "ozc-seed6.granitecoin,com"},
+	{"ozc-seed7.granitecoin.com", "ozc-seed7.granitecoin,com"},
 
 // below are the old seed ip addresses - preserved for archival purposes ...
 //    {"ozziecoin.com", "seed1.ozziecoin.com"},
